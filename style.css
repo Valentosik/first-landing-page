@@ -1,0 +1,155 @@
+body {
+	margin: 0;
+	padding: 0;
+	font-family: Roboto;
+	font-size: 32px;
+}
+
+.content {
+	width: 1100px;
+	margin: 0 auto;
+}
+
+.logo {
+	margin-top: 20px;
+}
+
+header {	
+	
+	height: 84px;
+	background: #007765;
+}
+
+.menu {
+    float: right;
+    margin-top: 27px;
+
+}
+.menu, .menu a {
+	text-decoration: none;
+	font-size: 24px;
+	color: #fff;
+
+}
+.Piperlogo {
+    background: url(image/image.jpg) no-repeat center top / cover;
+    	/*height: 403px;*/
+	padding: 160px 0;
+	font-size: 72px;
+	color: #fff;
+}
+.Headline {
+	/*padding-top: 160px;*/
+	font-weight: 500;
+	font-size: 72px;
+	text-align: center;
+}
+.container1 {
+    background: #EEEEEE;
+    height: 720px;
+}
+.headline1 {
+	font-weight: 500;
+	font-size: 64px;
+	text-align: center;
+	color: #007765;
+	padding-top: 48px;
+}
+.content p {
+	text-align: left;
+}
+.container2 {
+    background: url(image/image2.jpg) no-repeat center top / cover;
+    height: 483px;
+}
+.together {
+	text-align: center;
+	padding-top: 128px;
+	font-style: italic;
+	font-weight: 500;
+	font-size: 48px;
+	color: #fff;
+}
+.container3 {
+    height: 604px;
+
+}
+.ppclogo {
+    float: left;
+    margin: 0 48px 35px 0;
+}
+.container4 {
+    height: 845px;
+    background: #EEEEEE;
+}
+
+.Employee1text {
+	font-weight: bold;
+	font-size: 24px;
+	color: #007765;
+}
+
+.Employee1text1 {
+	display: block;
+	font-style: italic;
+	font-size: 18px;
+	color: #000000;
+
+}
+.emp1 {
+	display: inline-block;
+	margin-left: 55px;
+}
+
+.emp2 {
+	margin-left: 200px;
+	display: inline-block;
+
+}
+
+.descr {
+	text-align: left;
+}	
+.employee {
+	margin: 56px auto 0px auto;
+	width: 1100px;
+	height: 168px;
+}
+.emp3 {
+	display: inline-block;
+	margin-left: 212px;
+}
+.employee2 {
+	margin: 56px auto 0px auto;
+	width: 1100px;
+	height: 168px;
+}
+.emp4 {
+	display: inline-block;
+	margin-left: 55px;
+	margin-top: 100px;
+}
+
+.emp5 {
+	margin-left: 220px;
+	display: inline-block;
+}
+.emp6 {
+	display: inline-block;
+	margin-left: 212px;
+}
+.container5 {
+	background: #333333;
+	height: 176px;
+	
+}
+
+.last {
+	font-family: Roboto;
+	font-size: 18px;
+	text-align: center;
+	color: #FFFFFF;
+	margin: 0 500px;
+	padding-top: 50px;
+
+}
